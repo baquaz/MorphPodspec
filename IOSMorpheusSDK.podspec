@@ -14,7 +14,7 @@ s.name = "IOSMorpheusSDK"
 s.summary = "Demo - Morpheus iOS SDK"
 s.requires_arc = true
 
-s.version = "0.0.3"
+s.version = "0.0.4"
 
 s.license = { :type => "MIT", :file => "LICENSE" }
 
@@ -25,7 +25,7 @@ s.source = { :git => "https://github.com/MorpheusLabs/MorpheusIosSDK.git", :tag 
 
 s.source_files = "Sources/**/*.{swift}"
 
-s.swift = "5.1"
+s.swift_version = "5.1"
 
 s.framework = "UIKit"
 s.dependency "JSONKit", "~> 1.4"
