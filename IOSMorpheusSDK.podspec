@@ -14,7 +14,7 @@ s.name = "IOSMorpheusSDK"
 s.summary = "Demo - Morpheus iOS SDK"
 s.requires_arc = true
 
-s.version = "0.0.4"
+s.version = "0.0.5"
 
 s.license = { :type => "MIT", :file => "LICENSE" }
 
